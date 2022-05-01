@@ -1,0 +1,229 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "darkbg",
+		"player1": "bf",
+		"player2": "tmk",
+		"player3": null,
+		"events": [
+			[
+				76800,
+				[
+					[
+						"Play Animation",
+						"eye",
+						"Dad"
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				111600,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				112800,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				121200,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				122400,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				123600,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				147600,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Alt Idle Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Round"
+	}
+}
